@@ -1,7 +1,7 @@
-party_ar
+company_ar
 ========
 
-The party_ar module of the Tryton application platform.
+The company_ar module of the Tryton application platform.
 
 Installing
 ----------
@@ -14,7 +14,7 @@ Support
 For more information or if you encounter any problems with this module,
 please contact the programmers at
 
-https://github.com/tryton-ar/party_ar/issues
+https://github.com/tryton-ar/company_ar/issues
 
 If you encounter any problems with Tryton, please don't hesitate to ask
 questions on the Tryton bug tracker, mailing list, wiki or IRC channel:
